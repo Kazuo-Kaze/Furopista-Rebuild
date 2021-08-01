@@ -1,0 +1,41 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  z-index: 999;
+}
+.navbar__div00 {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2vw;
+  margin-top: 1vw;
+  margin-right: 2vw;
+  align-items: center;
+  overflow: hidden;
+  left: 0;
+  right: 0;
+  position: relative;
+}
+.navbar__div2 h3 {
+  font-size: 1.5vw;
+
+  color: rgb(99, 99, 99);
+}
+.home__link1 {
+  text-decoration: none;
+}
+.navbar__div3 {
+  margin-left: 80vw;
+}
+.navbar__div4 {
+  border: 0.1vw solid rgba(0, 0, 0, 0.2);
+  border-radius: 2vw;
+  width: 7vw;
+  padding: 0.4vw;
+  text-align: center;
+
+  background-color: #fff;
+  color: rgb(99, 99, 99);
+}

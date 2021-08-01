@@ -1,0 +1,27 @@
+first bike image  = https://api.fuoripista.it/assets/images/globals/transitions/_1200xAUTO_crop_center-center_none/Fuoripista-Tuo-Intro-t.png
+
+Second bike image = https://api.fuoripista.it/assets/images/products/_1200xAUTO_crop_center-center_none/Fuoripista-Tuo-Specifiche-cover.jpg
+
+firstSction svg image = https://api.fuoripista.it/assets/images/products/Fuoripista-Tuo-Tagline-Circle.svg
+
+secondSection bike image = https://api.fuoripista.it/assets/images/products/highlights/_1200xAUTO_crop_center-center_none/Fuoripista-Tuo-Highlight-01.jpg
+
+thirdSection bike handle image = https://api.fuoripista.it/assets/images/products/design/_1920xAUTO_crop_center-center_none/Fuoripista-Tuo-Design-Cover.jpg
+
+fourthSection bike image = https://api.fuoripista.it/assets/images/products/design/_480xAUTO_crop_center-center_none/Fuoripista-Tuo-MadeItaly.jpg
+
+fourthSection svg image = https://www.fuoripista.it/_nuxt/b5204f5cc387958815c85c3a0fa1bebc.svg
+
+videoSection video = https://player.vimeo.com/external/444927988.hd.mp4?s=675cf308a4ec88d061ec436d4206416bb8411bf1&profile_id=175
+
+fifithSection image = https://api.fuoripista.it/assets/images/products/design/_900xAUTO_crop_center-center_none/Fuoripista-Tuo-Colori-Legno.jpg
+
+fifithSection texture color image = https://api.fuoripista.it/assets/images/products/design/Fuoripista-Tuo-Colori-Legno-texture.jpg
+fifithSection texture color image 2 = https://api.fuoripista.it/assets/images/products/design/Fuoripista-Tuo-Colori-Cromo-texture.jpg
+fifithSection texture color image 3 = https://api.fuoripista.it/assets/images/products/design/Fuoripista-Tuo-Colori-Rame-texture.jpg
+fifithSection texture color image 4 = https://api.fuoripista.it/assets/images/products/design/Fuoripista-Tuo-Colori-Pelle-texture.jpg
+
+lastSection first image = https://api.fuoripista.it/assets/images/products/design/_900xAUTO_crop_center-center_none/Fuoripista-Tuo-Colori-Legno-Ambientata.jpg
+
+lastSection second image = https://api.fuoripista.it/assets/images/products/design-gallery/_640xAUTO_crop_center-center_none/Fuoripista-Tuo-Design-Gallery-02.jpg
+
